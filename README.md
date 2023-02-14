@@ -99,9 +99,6 @@ Linear systems can be replaced by any other of your choice, just follow the inst
 * And lastly, replace the letter `d` with the first value of this line which is part of the diagonal of the linear system.
 
 </details>
-</br>
-
-🇧🇷 Português-BR:
 
 # Programa em C - Método de Gauss-Seidel
 _Este repositório conta com um programa em C para demonstrar o uso do método de cálculo numérico de Gauss-Seidel._
